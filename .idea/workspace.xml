@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3a68b50-2cd8-48ef-b766-3126a6297473" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/META-INF/DesignPattern.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/simplefactorypattern/Factory/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/simplefactorypattern/Factory/CarMapFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/simplefactorypattern/IProduct/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/simplefactorypattern/Product/AudiCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/simplefactorypattern/Product/BmwCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/simplefactorypattern/Product/XiaoPengCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/simplefactorypattern/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplefactorypattern/Factory/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplefactorypattern/Factory/CarMapFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplefactorypattern/IProduct/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplefactorypattern/Product/AudiCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplefactorypattern/Product/BmwCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplefactorypattern/Product/XiaoPengCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplefactorypattern/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="echoRookie" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r7RzdwKvz5OPaMOKNGXcABe6G0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simplefactorypattern.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simplefactorypattern.IProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3a68b50-2cd8-48ef-b766-3126a6297473" name="Default Changelist" comment="" />
+      <created>1618325404966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618325404966</updated>
+      <workItem from="1618325409519" duration="2056000" />
+      <workItem from="1618367404215" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat:新增简单工厂设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:新增简单工厂设计模式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1618325729622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1618325729622" />
+    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1618368019185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1440.-138.1440.860@0.0.1366.728" timestamp="1618368019185" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1618367751860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1440.-138.1440.860@0.0.1366.728" timestamp="1618367751860" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618326857339" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1618367751860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1440.-138.1440.860@0.0.1366.728" timestamp="1618367751860" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618326857339" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1618367751859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1440.-138.1440.860@0.0.1366.728" timestamp="1618367751859" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618326857339" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1618367751860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1440.-138.1440.860@0.0.1366.728" timestamp="1618367751860" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618326857339" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1618367430918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1440.-138.1440.860@0.0.1366.728" timestamp="1618367430918" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1618326543335">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1618326543335" />
+  </component>
+</project>
