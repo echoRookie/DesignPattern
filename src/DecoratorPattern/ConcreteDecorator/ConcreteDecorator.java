@@ -14,7 +14,8 @@ public class ConcreteDecorator extends Decorator {
 
     @Override
     public void operation() {
+        System.out.println("包装一层first");
         super.operation();
-        System.out.println("加钢铁侠铠甲");
+        System.out.println("包装一层last");
     }
 }

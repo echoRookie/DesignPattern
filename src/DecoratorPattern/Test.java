@@ -11,6 +11,10 @@ public class Test {
     public static void main(String[] args) {
         ConcreteComponent concreteComponent = new ConcreteComponent();
         ConcreteDecorator concreteDecorator = new ConcreteDecorator(concreteComponent);
+        ConcreteDecorator concreteDecoratoA = new ConcreteDecorator(concreteDecorator);
         concreteDecorator.operation();
+        // 双层装饰
+        System.out.println("--------------------");
+        concreteDecoratoA.operation();
     }
 }
