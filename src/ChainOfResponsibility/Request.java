@@ -39,7 +39,7 @@ public class Request {
         this.day = bulider.day;
         this.memo = bulider.memo;
     }
-    public static class Builder{
+    public static class Builder {
         private String name;
         private int day;
         private String memo;

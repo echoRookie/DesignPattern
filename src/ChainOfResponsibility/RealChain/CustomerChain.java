@@ -8,7 +8,7 @@ import ChainOfResponsibility.Result;
  * @author yangjun6
  * @date 2021-04-23 15:19
  */
-public class CustomerChain implements Chain {
+public  class CustomerChain implements Chain {
     @Override
     public Result deal(Ratify ratify) {
         if(ratify.request() != null){
